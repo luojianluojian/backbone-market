@@ -1,0 +1,20 @@
+.fr{
+    float: right;
+}
+.fl{
+    float: left;
+}
+.nav_left{
+    display: inline-block;
+    margin-top: 13px;
+}
+.span_word{
+    position: relative;
+    padding: 2px;
+    top: -3px;
+}
+.AD {
+    height: 309px;
+    margin-top: 5px;
+    overflow: hidden;
+}
